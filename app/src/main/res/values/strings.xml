@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SupportEdgeToEdgeCompose</string>
+
+    <!-- Main -->
+    <string name="hello_world">Hello world!</string>
+    <string name="your_item">Item: %1$d</string>
+</resources>
